@@ -1,13 +1,3 @@
-import React from 'react';
-const Todo = () => {
-    return (
-        <></>
-    )
-}
-
-
-export { Todo }
-
 import React from "react";
 const Todo = ({ dispatch, state }) => {
 
